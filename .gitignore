@@ -1,0 +1,6 @@
+.env
+*.key
+*.psk
+captures/
+logs/
+__pycache__/
